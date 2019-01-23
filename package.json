@@ -39,6 +39,7 @@
     "ember-cli-babel": "^6.16.0",
     "ember-cli-htmlbars": "^2.0.1",
     "ember-cli-htmlbars-inline-precompile": "^1.0.3",
+    "ember-cli-update": "^0.29.2",
     "fastboot-transform": "^0.1.2",
     "photoswipe": "^4.1.2"
   },
